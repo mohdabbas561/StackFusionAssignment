@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StackFusionAssignment/static/css/main.81504f03.css",
+    "main.js": "/StackFusionAssignment/static/js/main.accf4c60.js",
+    "static/js/787.28cb0dcd.chunk.js": "/StackFusionAssignment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/StackFusionAssignment/index.html",
+    "main.81504f03.css.map": "/StackFusionAssignment/static/css/main.81504f03.css.map",
+    "main.accf4c60.js.map": "/StackFusionAssignment/static/js/main.accf4c60.js.map",
+    "787.28cb0dcd.chunk.js.map": "/StackFusionAssignment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81504f03.css",
+    "static/js/main.accf4c60.js"
+  ]
+}
